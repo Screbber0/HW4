@@ -1,5 +1,5 @@
 # HW4
-# Чесноков Сергей 
+# Чесноков Сергей (вариант 17)
 ## Компиляция
 g++ main.cpp -o main.exe -fsanitize=thread -lpthread  
 
